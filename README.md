@@ -1,1 +1,2 @@
 # TonyMoldavin_CSCI2270_FinalProject
+I'm Tony Moldavin. My Project will be a database of ranked movies. Someone using this project will be able to search for the top 25 movies of a certain year and delete individual years and movies. I'm working on this project alone. The structure of this project is a binary search tree composed of years with the nodes pointing to a linked list of movies corresponding to the year.
