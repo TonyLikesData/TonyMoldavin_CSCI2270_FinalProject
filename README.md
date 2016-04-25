@@ -1,2 +1,2 @@
 # TonyMoldavin_CSCI2270_FinalProject
-I'm Tony Moldavin. My Project will be a database of ranked movies. Someone using this project will be able to search for the top 25 movies of a certain year and add movies to the database. I'm working on this project alone. The structure of this project is a binary search tree composed of years with the nodes pointing to a linked list of movies corresponding to the year.
+I'm Tony Moldavin. My Project will be a to-do list sorted by priority. Someone using this project will be able to add and remove tasks of certain levels of priority and print all the tasks. I'm working on this project alone. The structure of this project is a linked list with each node being a queue.
